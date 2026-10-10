@@ -1,6 +1,6 @@
 {
   "name": "com.fabi.sticky-note",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Sticky Note",
   "description": "A yellow sticky note that stays in the Scene view (and as a dockable window) to remind you of the task at hand. The text is saved per project in UserSettings/StickyNote.txt.",
   "unity": "6000.0",
